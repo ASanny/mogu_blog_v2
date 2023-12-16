@@ -6,3 +6,8 @@ spring:
   profiles:
     #启动dev环境的配置文件
     active: dev
+
+#Data image url
+file:
+  upload:
+    path: D:\Project\project_blog\mogu_blog_v2_data
